@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFC_functionx.com", "MFC_functionx.com\MFC_functionx.com.vcproj", "{C623FD23-2624-48D7-AEA2-8DE1CC9548E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C623FD23-2624-48D7-AEA2-8DE1CC9548E0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C623FD23-2624-48D7-AEA2-8DE1CC9548E0}.Debug|Win32.Build.0 = Debug|Win32
+		{C623FD23-2624-48D7-AEA2-8DE1CC9548E0}.Release|Win32.ActiveCfg = Release|Win32
+		{C623FD23-2624-48D7-AEA2-8DE1CC9548E0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
